@@ -1,0 +1,73 @@
+group,start,end,type,range
+CH2,1405,1455,functional_group,1405 - 1455
+CH3,1405,1455,functional_group,1405 - 1455
+C-CH3,1355,1385,functional_group,1355 - 1385
+C-C aliphatic chains,630,1250,functional_group,630 - 1250
+Carboxylate salt,1315,1435,functional_group,1315 - 1435
+Ketone,1600,1710,functional_group,1600 - 1710
+Carboxylic acid,1610,1740,functional_group,1610 - 1740
+Lipid,714,728,lipid,714 - 1742
+Lipid,755,765,lipid,714 - 1742
+Lipid,871,887,lipid,714 - 1742
+Lipid,1080,1109,lipid,714 - 1742
+Lipid,1120,1134,lipid,714 - 1742
+Lipid,1262,1305,lipid,714 - 1742
+Lipid,1432,1447,lipid,714 - 1742
+Lipid,1649,1675,lipid,714 - 1742
+Lipid,1732,1742,lipid,714 - 1742
+Amide III,1230,1240,protein,1230 - 1305
+Amide III,1245,1255,protein,1230 - 1305
+Amide III,1264,1272,protein,1230 - 1305
+Amide III,1295,1305,protein,1230 - 1305
+Amide I,1645,1654,protein,1645 - 1689
+Amide I,1665,1674,protein,1645 - 1689
+Amide I,1679,1689,protein,1645 - 1689
+RNA,778,788,nucleic_acid,778 - 1694
+RNA,806,816,nucleic_acid,778 - 1694
+RNA,1091,1101,nucleic_acid,778 - 1694
+RNA,1227,1237,nucleic_acid,778 - 1694
+RNA,1333,1343,nucleic_acid,778 - 1694
+RNA,1476,1486,nucleic_acid,778 - 1694
+RNA,1569,1579,nucleic_acid,778 - 1694
+RNA,1684,1694,nucleic_acid,778 - 1694
+RBD Protein,638,648,protein,638 - 1604
+RBD Protein,835,845,protein,638 - 1604
+RBD Protein,885,895,protein,638 - 1604
+RBD Protein,909,919,protein,638 - 1604
+RBD Protein,938,948,protein,638 - 1604
+RBD Protein,983,993,protein,638 - 1604
+RBD Protein,1018,1028,protein,638 - 1604
+RBD Protein,1093,1103,protein,638 - 1604
+RBD Protein,1166,1176,protein,638 - 1604
+RBD Protein,1227,1237,protein,638 - 1604
+RBD Protein,1260,1270,protein,638 - 1604
+RBD Protein,1320,1330,protein,638 - 1604
+RBD Protein,1456,1466,protein,638 - 1604
+RBD Protein,1532,1542,protein,638 - 1604
+RBD Protein,1594,1604,protein,638 - 1604
+Tyrosine,708,718,amino_acids,708 - 1436
+Tyrosine,791,801,amino_acids,708 - 1436
+Tyrosine,822,832,amino_acids,708 - 1436
+Tyrosine,837,847,amino_acids,708 - 1436
+Tyrosine,934,944,amino_acids,708 - 1436
+Tyrosine,1171,1181,amino_acids,708 - 1436
+Tyrosine,1193,1203,amino_acids,708 - 1436
+Tyrosine,1320,1330,amino_acids,708 - 1436
+Tyrosine,1356,1366,amino_acids,708 - 1436
+Tyrosine,1426,1436,amino_acids,708 - 1436
+Phenylalanine,599,609,amino_acids,599 - 1607
+Phenylalanine,615,625,amino_acids,599 - 1607
+Phenylalanine,687,697,amino_acids,599 - 1607
+Phenylalanine,738,748,amino_acids,599 - 1607
+Phenylalanine,823,833,amino_acids,599 - 1607
+Phenylalanine,997,1007,amino_acids,599 - 1607
+Phenylalanine,1025,1035,amino_acids,599 - 1607
+Phenylalanine,1149,1159,amino_acids,599 - 1607
+Phenylalanine,1180,1190,amino_acids,599 - 1607
+Phenylalanine,1209,1219,amino_acids,599 - 1607
+Phenylalanine,1304,1314,amino_acids,599 - 1607
+Phenylalanine,1333,1343,amino_acids,599 - 1607
+Phenylalanine,1405,1415,amino_acids,599 - 1607
+Phenylalanine,1438,1448,amino_acids,599 - 1607
+Phenylalanine,1580,1590,amino_acids,599 - 1607
+Phenylalanine,1597,1607,amino_acids,599 - 1607
